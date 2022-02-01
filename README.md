@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidi-boi
 - 👀 I’m interested in Web_dev based on MERN stack.
-- 🌱 I’m currently learning Node.js, react, express, MongoDB
+- 🌱 I’m currently Intering at Coding Ninjas as part of the Content Team.
 
 
 
