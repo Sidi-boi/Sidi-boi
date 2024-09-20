@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidi-boi
-- 👀 I’m interested in Web_dev based on MERN stack.
-- 🌱 Backend Software Engineer at Tartan 
+- 🌱 6 Months intern at Coding Ninjas.
+- 🌱 Backend Engineer at Tartan for 1.2 years
 
 
 
