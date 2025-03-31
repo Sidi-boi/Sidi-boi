@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sidi-boi
-- 🌱 6 Months intern at Coding Ninjas.
 - 🌱 Backend Engineer at Tartan for 1.2 years
+- 🌱 6 Months intern at Coding Ninjas.
+
 
 
 
